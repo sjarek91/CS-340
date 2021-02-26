@@ -5,6 +5,10 @@ How do you write programs that are maintainable, readable, and adaptable? Especi
 
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
+- When considering an approach as a computer scientist, I think it is important to make sure that you see the end goal before you start working.  I like to be able to look at all of the requirements for each problem set and solve them once I understand everything that is going on. If I have questions, I like to make sure I ask early on so that I can get clarification before the deadline. For this project, it was more complex than others I have had to work with so I had to take a slightly different approach.  I wasn't up to speed with Python, so I had to relearn some of it. Also, for this project, we needed to create a module that could be reusable.  In previous courses, we mainly had simple assignments where we corrected pre-existing code.  For future courses, I will make sure that I test my code early and often to make sure everything is functional and syntactically correct.  Doing this early can avoid trying to track down syntax errors late in the project. 
+
 
 
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+- Computer scientists essentially solve complex problems by using the latest technologies and programming languages.  The work that computer scientists do matter because they are helping companies and individuals solve problems that they wouldn't be able to do normally.  My work on this type of project would help a company because it can create a foundation of a program that can be used with multiple databases by adjusting the code. Having this type of program allows the company to quickly sort through tons of data and find specific search criteria. 
